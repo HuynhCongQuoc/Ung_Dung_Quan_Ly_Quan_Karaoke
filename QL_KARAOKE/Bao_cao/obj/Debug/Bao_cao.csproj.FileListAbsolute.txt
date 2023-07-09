@@ -1,0 +1,123 @@
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe.config
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\bin\Debug\Bao_cao.pdb
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Properties.Resources.resources
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.ThanhToan.resources
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.GenerateResource.cache
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CoreCompileInputs.cache
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.exe
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.pdb
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.AssemblyReference.cache
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.NhanVien.resources
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.MatHang.resources
+E:\III\TH_HQTCSDL\Bao_cao\Bao_cao\obj\Debug\Bao_cao.DN.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe.config
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\bin\Debug\Bao_cao.pdb
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.DN.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.MatHang.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.NhanVien.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Properties.Resources.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.GenerateResource.cache
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CoreCompileInputs.cache
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.exe
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.pdb
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.TinhTien.resources
+C:\Users\84395\Desktop\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.AssemblyReference.cache
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe.config
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.pdb
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.DN.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.MatHang.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.NhanVien.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Properties.Resources.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.TinhTien.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.GenerateResource.cache
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CoreCompileInputs.cache
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.exe
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.pdb
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Admin.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.AssemblyReference.cache
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\AxShockwaveFlashObjects.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.Shared.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\ShockwaveFlashObjects.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\stdole.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.InHD.resources
+E:\III\CongNghe_Net\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CopyComplete
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe.config
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\Bao_cao.pdb
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\ShockwaveFlashObjects.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\stdole.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.AssemblyReference.cache
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.SuggestedBindingRedirects.cache
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Admin.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.DN.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.InHD.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.MatHang.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.NhanVien.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Properties.Resources.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.TinhTien.resources
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.GenerateResource.cache
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CopyComplete
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.exe
+E:\Công Nghệ .NET\BaoCaoCuoiMon\Bao_cao\Bao_cao\obj\Debug\Bao_cao.pdb
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe.config
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\Bao_cao.exe
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\Bao_cao.pdb
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\ShockwaveFlashObjects.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\stdole.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.AssemblyReference.cache
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.SuggestedBindingRedirects.cache
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Admin.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.DN.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.InHD.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.MatHang.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.NhanVien.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.Properties.Resources.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.TinhTien.resources
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.GenerateResource.cache
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.csproj.CopyComplete
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.exe
+E:\Công Nghệ .NET\Nhom03_QuanLyQuanKARAOKE\Bao_cao\Bao_cao\obj\Debug\Bao_cao.pdb
